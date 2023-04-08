@@ -5,4 +5,4 @@ Data Science & Risk Management project using various baseball data sources to pr
 - **Technology**: Python, XG Boost (Gradient Boosted Decision Tree) Model, Neural Network
 - **Timeline**: January 2023 - Present
 
-*This repo only contains a subset of the entire code in this project. In order to retain a competitive advantage, the remaining code is stored in a private repo.*
+***Note**: This repo only contains a subset of the entire code in this project. In order to retain a competitive advantage, the remaining code is stored in a private repo.*
